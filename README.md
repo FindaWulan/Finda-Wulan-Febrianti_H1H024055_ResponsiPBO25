@@ -46,4 +46,6 @@ PokeCare/
 
 ## Mekanik Pelatihan
 Jenis latihan: Attack, Defense, Speed, Stamina
-Intensitas: 1-1000
+Intensitas: 1-1000 
+
+![ScreenRecording2025-11-29115225-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/06cb048f-7b47-4050-beb4-f7ace6a6fbf4)
